@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3>😄Introduction😄</h3>
-<h4>항상 노력하는 꾸준한 개발자가 되고 싶습니다💪</h4>
+<h4>꾸준한 개발자가 되자</h4>
 <h3>📚study📚<h3>
 <span>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> 
